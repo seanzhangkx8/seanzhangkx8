@@ -3,5 +3,5 @@
 - 👀 I’m interested in natural language processing, machine learning, computer vision, basketball, photography, and history.
 - 🌱 I’m currently learning nlp, ml, algorithm, operating system, probability theory, linear algebra and many more.
 - 💞️ I’m looking to collaborate on interesting project regarding nlp.
-- ❤️ My gf Anastatia He.
+- ❤️ My love Anastatia He.
 - 📫 How to reach me: seanzhangkx@gmail.com
