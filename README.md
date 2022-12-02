@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sean @seanzhangkx8
 - 🏫 I‘m a student at Cornell University.
 - 👀 I’m interested in philosophy, basketball, photography, and history.
-- 🌱 I’m currently learning nlp, ml, algorithm, operating system, probability theory, linear algebra and many more.
+- 🌱 I’m currently studying nlp, ml, network and many more.
 - 💞️ I’m looking to collaborate on interesting projects.
-- ❤️ My love Anastatia He.
 - 📫 How to reach me: seanzhangkx@gmail.com
